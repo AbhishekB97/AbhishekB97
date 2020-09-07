@@ -6,3 +6,6 @@ Im Abhishek, better known online as Shinoda. I like making fun things and explor
 Im keen on learning anything and everything tech related under the sun and my goal is to be a great coder and create solutions for real world problems using technology. Also I like math.
 
 ![Shinoda's github stats](https://github-readme-stats.vercel.app/api?username=ShinodaII&show_icons=true&theme=blue-green)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinodaII&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
